@@ -12,3 +12,10 @@ if($a=1){
 	echo "dev_aodto";
 	echo "dev_aodto 222";
 }
+if($b==1){
+	echo "dev_wannapong bbb";
+	echo "dev_wannapong bbb";
+	echo "dev_wannapong bbb";
+}
+
+//scope dev_wannapong
