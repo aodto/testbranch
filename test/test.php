@@ -5,4 +5,5 @@
 
 if($a=1){
 	echo "dev_aodto";
+	echo "dev_aodto 222";
 }
