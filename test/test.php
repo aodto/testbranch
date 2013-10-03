@@ -8,4 +8,5 @@
 if($b==1){
 	echo "dev_wannapong bbb";
 	echo "dev_wannapong bbb";
+	echo "dev_wannapong bbb";
 }
