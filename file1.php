@@ -6,7 +6,7 @@ class File1{
 	public function requestf2(){
 		echo "File1.requestf2()";
 	}
-	public function f2(){
-		echo "File1.f2()";
+	public function f12(){
+		echo "File1.f12()";
 	}
 }
